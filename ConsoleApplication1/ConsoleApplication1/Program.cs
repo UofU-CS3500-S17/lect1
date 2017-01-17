@@ -10,6 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            // This is a B comment
             // This is an A comment
         }
 
